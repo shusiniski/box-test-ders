@@ -1,0 +1,11 @@
+html,body{
+	margin: 0;
+}
+
+.main{
+	width: 200px;
+	height: 200px;
+	background: skyblue;
+	display: inline-block;
+	margin: 5px;
+}
